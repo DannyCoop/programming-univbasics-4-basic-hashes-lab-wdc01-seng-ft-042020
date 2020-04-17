@@ -3,6 +3,7 @@ def new_hash
 
   }
 end
+empty
 
 def my_hash
   people = {
@@ -10,6 +11,7 @@ def my_hash
     name: "Danny"
   }
 end
+people
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
