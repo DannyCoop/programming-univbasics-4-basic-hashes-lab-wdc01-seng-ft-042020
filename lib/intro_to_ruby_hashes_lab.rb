@@ -8,7 +8,6 @@ end
 def my_hash
   people = {
     age: 32
-    name: "Danny"
   }
 end
 
